@@ -1,12 +1,15 @@
 # TODO-List
-##### **It is the my first Web Development Project using HTML, CSS &amp; JAVASCRIPT**
+##### **It is the my first Web Development Project using HTML, CSS, BOOTSTRAP &amp; JAVASCRIPT**
 
 # TODO-List GUI
 - **View Of Initial Page:**
    
-![Screenshot (33)](https://user-images.githubusercontent.com/89243145/197882773-23e192ce-697e-42c6-a692-d22226f842c6.png)
+![Screenshot 2023-03-06 031738](https://user-images.githubusercontent.com/89243145/222987980-e7d8c4d2-9a6f-4b4a-a919-8d4f280b7cb2.png)
 
-
-- **View After Adding Work List:**
+- **View After Adding Work List: with Edit and Remove Option**
   
-![Screenshot (34)](https://user-images.githubusercontent.com/89243145/197882903-7dfe4093-2392-437a-a766-27d99890bcc5.png)
+![Screenshot 2023-03-06 031720](https://user-images.githubusercontent.com/89243145/222987979-fded0921-1811-4eae-9184-ff8e71f5a9e8.png)
+
+- **View While Editing TODO List:**
+
+![Screenshot 2023-03-06 031655](https://user-images.githubusercontent.com/89243145/222987972-7efac01d-61cb-41c5-814b-a81ced2faaab.png)
